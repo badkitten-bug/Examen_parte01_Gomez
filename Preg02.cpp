@@ -1,3 +1,4 @@
+//PREGUNTA 2
 #include<iostream>
 #include <math.h>
 using namespace std;
@@ -21,7 +22,7 @@ int main(){
 		num=num/10;
 	}while(num>10);
 	
-	//hallamos la potencia de 10 entre la que dividiremos el número
+	//hallamos la potencia de 10 entre la que dividiremos el nÃºmero
 	for(int i =0; i<contador; i++){
 		potencia = potencia *10;
 	}
