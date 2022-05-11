@@ -1,4 +1,4 @@
-//Pregunta 4
+//Pregunta 04
 #include<iostream>
 
 using namespace std;
